@@ -22,7 +22,7 @@ Practice-Project01
 10)Writing a program in Java to verify implementations of regular expressions
 
 ------------------------------------------------
-Phase-02
+
 Practice-Project02
 1)Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
 
