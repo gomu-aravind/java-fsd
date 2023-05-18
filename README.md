@@ -22,8 +22,8 @@ Practice-Project01
 10)Writing a program in Java to verify implementations of regular expressions
 
 ------------------------------------------------
-
 Practice-Project02
+
 1)Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
 
 2)Write a program in Java to demonstrate sleep() and wait()
@@ -43,8 +43,8 @@ Practice-Project02
 9)Write a program in Java to resolve the diamond problem using OOPs’ concepts
 
 -------------------------------------------------------
-
 Practice-Project03
+
 1)Write a program in Java to right rotate an array by 5 steps
 
 2)Write a program in Java to find the fourth smallest element in an unsorted list
@@ -62,3 +62,22 @@ Practice-Project03
 8)Write a program in Java to insert and remove elements in a stack
 
 9)Write a program in Java to insert and remove elements in a queue
+
+---------------------------------------------------------------------------
+Practice-Project04
+
+1)Writing a program in Java implementing the linear search algorithm
+
+2)Writing a program in Java implementing the binary search algorithm
+
+3)Writing a program in Java implementing the exponential search algorithm
+
+4)Writing a program in Java implementing the selection sort algorithm
+
+5)Writing a program in Java implementing the bubble sort algorithm
+
+6)Writing a program in Java implementing the insertion sort algorithm
+
+7)Writing a program in Java implementing the merge sort algorithm
+
+8)Writing a program in Java implementing the quick sort algorithm
