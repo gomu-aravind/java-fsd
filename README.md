@@ -21,7 +21,7 @@ Practice-Project01
 
 10)Writing a program in Java to verify implementations of regular expressions
 
-------------------------------------------------
+-------------------------------------------------------------------------
 Practice-Project02
 
 1)Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
@@ -42,7 +42,7 @@ Practice-Project02
 
 9)Write a program in Java to resolve the diamond problem using OOPs’ concepts
 
--------------------------------------------------------
+-------------------------------------------------------------------------
 Practice-Project03
 
 1)Write a program in Java to right rotate an array by 5 steps
@@ -63,7 +63,7 @@ Practice-Project03
 
 9)Write a program in Java to insert and remove elements in a queue
 
----------------------------------------------------------------------------
+-------------------------------------------------------------------------
 Practice-Project04
 
 1)Writing a program in Java implementing the linear search algorithm
@@ -81,3 +81,27 @@ Practice-Project04
 7)Writing a program in Java implementing the merge sort algorithm
 
 8)Writing a program in Java implementing the quick sort algorithm
+
+-------------------------------------------------------------------------
+Phase02
+Practice-Project05
+
+1)Write a program to demonstrate the differences between GET and POST using Servlet.
+
+2)Configure a servlet in Eclipse IDE.
+
+3)Write a program to demonstrate the concept of Generic Servlets.
+
+4)Write a program to demonstrate the concept of Servlet Classes and Interfaces.
+
+5)Write a program to demonstrate a Servlet Filter.
+
+6)Write a program to demonstrate a Session Tracking using Cookies.
+
+7)Write a program to demonstrate a Session Tracking using URL Rewrite.
+
+8)Write a program to demonstrate Session Tracking using Hidden Form Fields.
+
+9)Write a program to demonstrate Session Tracking using an HTTP Session.
+
+10)Write a program to demonstrate Session Login and Logout.
