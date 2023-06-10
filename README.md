@@ -153,3 +153,22 @@ Practice-Project08
 
 5)Write a program to demonstrate session handling in JSP.
 
+-------------------------------------------------------------------------
+Practice-Project09
+
+1)Set up a Spring framework environment
+
+2)Create a Java program to demonstrate default and custom event handling.
+
+3)Create a Java program to demonstrate JDBC and Spring Integration
+
+-------------------------------------------------------------------------
+Practice-Project10
+
+1)Spring Boot Exception Handling.
+
+2)Create a project to Consume a RESTful web service
+
+3)Create a project to upload and download a file in Spring Boot.
+
+4)Create a project to enable HTTPS and display in browser
