@@ -189,3 +189,8 @@ Practice-Project11
 6)Write a program to demonstrate a dependency injection.
 
 7)You are given a project to demonstrate RESTful with Spring Boot.
+
+-------------------------------------------------------------------------
+Practice-Project12
+
+1)Create a project to demonstrate microservices with Spring Boot.
