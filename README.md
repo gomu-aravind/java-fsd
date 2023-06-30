@@ -194,3 +194,14 @@ Practice-Project11
 Practice-Project12
 
 1)Create a project to demonstrate microservices with Spring Boot.
+
+-------------------------------------------------------------------------
+Practice-Project13
+
+1)Import Bootstrap in Your Application .
+
+2)Develop a Static Web Page .
+
+3)Create a form using Bootstrap.
+
+4)Navigation and Pagination.
