@@ -205,3 +205,14 @@ Practice-Project13
 3)Create a form using Bootstrap.
 
 4)Navigation and Pagination.
+
+-------------------------------------------------------------------------
+Practice-Project14
+
+1)Functions and Prototyping.
+
+2)Working with Functions.
+
+3)IIFEs, Callbacks, and Closures.
+
+4)Maps and Classes.
